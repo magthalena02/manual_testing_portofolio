@@ -13,7 +13,7 @@ Tools used:
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+-> enter here the functional specifications (story) created in JIRA
 
 
 # 1 Testing section
