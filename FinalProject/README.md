@@ -1,4 +1,3 @@
-!!!!de inlocuit cu datele proiectului!!!!!
 # Final project for ITF Manual Testing Course
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
@@ -7,7 +6,7 @@ Application under test: www.houzz.com
 
 API Documentation: 
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
+**The final project will be split into 2 sections: [Testing section](https://github.com/magthalena02/manual_testing_portofolio/edit/main/FinalProject/README.md) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
 Tools used:
 
@@ -105,10 +104,18 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
--> enter here test cases or at least the titles
+- GM-2 Successfully create account with valid data on www.houzz.com
+- GM-4 Create account with invalid data on www.houzz.com
+- GM-6 Create ideabook with success on www.houzz.com
+- GM-8 Successfull login with created account on www.houzz.com
+- GM-10 Failed login with created account on www.houzz.com
+- GM-12 Unsuccessfully create account with invalid password on www.houzz.com
+- GM-13 Unsuccessfully create account with invalid email on www.houzz.com
+- GM-14 Search "Dining Table" product in search bar of www.houzz.com
+- GM-15 Check status of "Create" button for creating new ideabook on www.houzz.com
+- GM-16 Clear history for search bar on www.houzz.com
 
-
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [Test cases with steps_ZFJ-issue-export.xlsx](https://github.com/magthalena02/manual_testing_portofolio/files/12835757/Test.cases.with.steps_ZFJ-issue-export.xlsx)
 
 ## 1.5 Test Implementation
 
@@ -118,17 +125,21 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+* Test cases are executed on the created test Cycle summary: [Cycle Summary of the project]([Cycle summary_project](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/87742cc5-6522-4953-846b-529f9e0c44df)
+
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: ([BUG ticket GM-3.pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835805/BUG.ticket.GM-3.pdf)[BUG ticket GM-11.pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835806/BUG.ticket.GM-11.pdf)
+
+    *  GM-3 Error message still displayed after deleting invalid email address and wrong password when signing up on www.houzz.com
+    *  GM-11 Error message still displayed after deleting invalid email address when signing up on www.houzz.com
 
 
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
+* The traceability matrix was generated and can be found here: ([Forward Traceability.xlsx](https://github.com/magthalena02/manual_testing_portofolio/files/12835814/Forward.Traceability.xlsx)
 * Test execution chart was generated, the final report shows.... -> describe the final report
 
--> enter here test execution report/chart
+[PDF (Jira).pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835845/PDF.Jira.pdf)
+
 
 # 2 SQL section
