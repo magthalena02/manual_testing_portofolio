@@ -125,9 +125,9 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [Cycle Summary of the project]([Cycle summary_project](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/87742cc5-6522-4953-846b-529f9e0c44df)
+* Test cases are executed on the created test Cycle summary: [Cycle Summary of the project](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/87742cc5-6522-4953-846b-529f9e0c44df)
 
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: ([BUG ticket GM-3.pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835805/BUG.ticket.GM-3.pdf)[BUG ticket GM-11.pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835806/BUG.ticket.GM-11.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [BUG ticket GM-3.pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835805/BUG.ticket.GM-3.pdf) [BUG ticket GM-11.pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835806/BUG.ticket.GM-11.pdf)
 
     *  GM-3 Error message still displayed after deleting invalid email address and wrong password when signing up on www.houzz.com
     *  GM-11 Error message still displayed after deleting invalid email address when signing up on www.houzz.com
@@ -136,7 +136,7 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: ([Forward Traceability.xlsx](https://github.com/magthalena02/manual_testing_portofolio/files/12835814/Forward.Traceability.xlsx)
+* The traceability matrix was generated and can be found here: [Forward Traceability.xlsx](https://github.com/magthalena02/manual_testing_portofolio/files/12835814/Forward.Traceability.xlsx)
 * Test execution chart was generated, the final report shows.... -> describe the final report
 
 [PDF (Jira).pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835845/PDF.Jira.pdf)
