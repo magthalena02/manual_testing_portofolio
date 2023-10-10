@@ -52,7 +52,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   
 #### 1.1.4 Test scope
 
-__Tests in scope:__
+##### Tests in scope:
 - Ensure that the users can create new account using a valid email address and they choose strong and secure passwords during account creation.
 - Users should receive appropiate error message when attempting to create account with invalid email address or incorrect paswword and they can access their profiles with newly created account.
 - Confirm that users can enter search queries in the search bar and the results are displayed based on input.
@@ -60,7 +60,7 @@ __Tests in scope:__
 - The registered users can create ideabooks to save and organize design ideas and projects.
 - Items added are correctly associated with the users's ideabook and any change made is saved and is reflected in the user account.
   
-__Tests not in scope:__
+##### Tests not in scope:
 - Testing of authentication methods such as social media login (Google, Facebook), password recovery or account reset functionality is not in scope for this plan.
 - In-depth testing of the search algorithm's accuracy and relevance ranking is not within the scope.
 - Performance testing for scenarios involving an exceptionally large number of ideabooks or projects is not covered here.
