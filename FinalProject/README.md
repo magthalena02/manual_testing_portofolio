@@ -23,23 +23,25 @@ Tools used: Jira Software, Microsoft Edge, Google Chrome.
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+The Test Plan is designed to describe details of testing for the User Account module from the www.houzz.com application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
-- **Test Lead:** Responsible for overall test planning and execution
-- **Test Engineer:** Responsible for developing test cases and scripts, and executing tests
-- **Developer:** Responsible for fixing defects and providing support during testing
-- **Server administrator:** Responsible for maintaining the test environment
+- **Test Lead John Smith:** Responsible for overall test planning and execution
+- **Test Engineer Michael Jones:** Responsible for developing test cases and scripts, and executing tests
+- **Developer Dave Hatt:** Responsible for fixing defects and providing support during testing
+- **Server administrator Kevin Brown:** Responsible for maintaining the test environment
 
 #### 1.1.2 Entry criteria defined
 
-- Ensure that the testing environment of the website is accessible and stable.
-- User registration feature is fully developed, accessible and functional, and registration form is accessible.
-- Search bar is implemented and visible in the user interface, and data search queries give expected results.
-- Ideabook creation feature is fully developed and integrated into website, accessible and functional and users have access to relevant project or design idea data.
+- The test environment, including staging servers or environments that closely mimic production, must be set up and configured to reflect the production environment accurately.
+- Test data, including realistic user profiles, sample content, and any required databases, should be available and populated in the test environment.
+- Test cases, test plans, and any other testing documentation must be created, reviewed, and approved.
+- All necessary testing tools and infrastructure, such as test management tools, automation frameworks, and devices for compatibility testing, must be in place and ready for use.
+- Ensure that test data handling complies with data privacy regulations, and sensitive or personal information is anonymized or masked as necessary.
+- Review and confirm that the documented requirements, user stories, and acceptance criteria are clear, complete, and agreed upon by stakeholders.
   
 #### 1.1.3 Exit criteria defined
 
@@ -50,7 +52,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   
 #### 1.1.4 Test scope
 
-* __Tests in scope:__
+__Tests in scope:__
 - Ensure that the users can create new account using a valid email address and they choose strong and secure passwords during account creation.
 - Users should receive appropiate error message when attempting to create account with invalid email address or incorrect paswword and they can access their profiles with newly created account.
 - Confirm that users can enter search queries in the search bar and the results are displayed based on input.
@@ -58,7 +60,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - The registered users can create ideabooks to save and organize design ideas and projects.
 - Items added are correctly associated with the users's ideabook and any change made is saved and is reflected in the user account.
   
-* __Tests not in scope:__
+__Tests not in scope:__
 - Testing of authentication methods such as social media login (Google, Facebook), password recovery or account reset functionality is not in scope for this plan.
 - In-depth testing of the search algorithm's accuracy and relevance ranking is not within the scope.
 - Performance testing for scenarios involving an exceptionally large number of ideabooks or projects is not covered here.
