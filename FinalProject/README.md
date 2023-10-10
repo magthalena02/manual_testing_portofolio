@@ -68,14 +68,14 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.5 Risks detected
 
-* Project risks:
+##### Project risks:
 - The testing plan may be affected if there are unresolved technical dependencies with other components or services (e.g., third-party authentication providers) that are necessary for account creation.
-- There is a risk of data privacy and security breaches during account creation which could lead to data leaks or unauthorized access.
-- As user traffic increases, there may be performance scalability issues with account creation or search functionality, leading to slow response times or system failures.
-- Variations in browser behavior and compatibility issues may affect the functionality of account creation, search, or ideabook features.
+- Delays in delivery and task completion for new implementations by testing team. 
+- Cost-cutting across organization, which could lead to reduced funds and resources needed to improve the project.
+- Poor definition of the business requirements can lead to misinterpretations.
 - Frequent changes or updates to the website's codebase may lead to regression testing challenges, making it difficult to maintain test suites.
-  
-* Product risks:
+
+##### Product risks:
 - The potential risk of data breaches or unauthorized access to user account information or ideabook data could harm the reputation and trustworthiness of the website.
 - Poor usability and a subpar user experience can result in frustrated users who may abandon the website. This risk could impact user retention and engagement.
 - Performance issues, such as slow page load times or unresponsive search functionality, can lead to user dissatisfaction and abandonment.
@@ -83,14 +83,16 @@ The plan identifies the items to be tested, the features to be tested, the types
 - Integration issues with third-party services or external search engines may disrupt the seamless operation of the website's search functionality.
 - Weak password management or inadequate security measures may expose user accounts to hacking attempts.
 - Data migration from legacy systems to the new website may lead to data loss, inaccuracies, or inconsistencies.
+- As user traffic increases, there may be performance scalability issues with account creation or search functionality, leading to slow response times or system failures.
 
 #### 1.1.6 Evaluating entry criteria
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue. 
 
 ## 1.2 Test Monitoring and Control
 
 It will be done by generating periodic reports that reflect the current status of the test.
+![Test metrics_daily test_project](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/5dd7c344-c3fb-4959-9b91-324e758cbb36)
 
 ## 1.3 Test Analysis
 
@@ -126,7 +128,9 @@ The test cases with steps can be viewed here: [Test cases with steps_ZFJ-issue-e
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+- Test plan and Strategy: A comprehensive test plan outlining the scope, objectives, test cases, and schedules should be prepared and reviewed.
+- Test Environment: should be set up and configured correctly, this includes hardware, software, network configurations and databases.
+- 
 
 ## 1.6 Test Execution
 
