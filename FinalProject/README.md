@@ -8,13 +8,16 @@ API Documentation:
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/magthalena02/manual_testing_portofolio/edit/main/FinalProject/README.md) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
-Tools used:
+Tools used: Jira Software, Microsoft Edge, Google Chrome.
 
 # Functional specifications
 
-- Create account for new user on www.houzz.com
-- Search bar implementation for www.houzz.com
-- Create an ideabook as a user on www.houzz.com
+- Story GM-1: Create account for new user on www.houzz.com ![Story GM-1](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/5c3836e6-f709-4aa3-be21-c426f5512bf2)
+
+- Story GM-5: Search bar implementation for www.houzz.com ![Story GM-5](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/d26286ae-d764-474e-b7d1-0ac80fd0f304)
+
+- Story GM-9: Create an ideabook as a user on www.houzz.com ![Story GM-9](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/5a102553-e7f4-41ef-9150-4d1168dee2f9)
+
 
 # 1 Testing section
 
