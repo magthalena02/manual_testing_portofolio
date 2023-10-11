@@ -148,9 +148,11 @@ The following elements are needed to be ready before the test execution phase be
 * The traceability matrix was generated and can be found here [Forward Traceability.xlsx](https://github.com/magthalena02/manual_testing_portofolio/files/12872421/Forward.Traceability.xlsx):
   ![Forward Traceability](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/d4ef5504-08dd-46fe-85a8-bd9c30da34b0)
 
-* Test execution chart was generated, the final report shows.... -> describe the final report
+* Test execution chart was generated, the final report shows that the homepage loaded successfully and all elements were functional, meeting the requirements. New account was created using an valid email address and an invalid one for negative testing confirming that the account creation process functioned as expected. Error messages persisted after deleting invalid email address or password during sing-up and login, which was not in line with the expected behavior. The search bar provided accurate search results and suggestions meeting the acceptance criteria. The process of creating an ideabook worked as intended and it was saved without issues.
+  Regarding this conclusions, we recommend to investigate and resolve the persistence of error messages during the sign-up and login processes to improve user satisfaction. Defects discovered during testing have been logged into the defect tracking system for further investigation and resolution.
+  This test completion report provides an overview of the quality of www.houzz.com based on the testing of 10 critical test cases. The identified issues need to be addressed to enhance the overall user experience and website functionality.
 
-[PDF (Jira).pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12835845/PDF.Jira.pdf)
+Project Report: [Zephyr Test Steps + Executions + Results (Jira) .pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12873843/Zephyr.Test.Steps.%2B.Executions.%2B.Results.Jira.pdf)
+Test execution chart
+![Test execution chart](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/9d48e53f-aa68-4fc1-b55d-12a5e13211e4)
 
-
-# 2 SQL section
