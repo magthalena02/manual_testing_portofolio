@@ -150,7 +150,7 @@ The following elements are needed to be ready before the test execution phase be
   <p>Regarding this conclusions, we recommend to investigate and resolve the persistence of error messages during the sign-up and login processes to improve user satisfaction. Defects discovered during testing have been logged into the defect tracking system for further investigation and resolution.
   <p>This test completion report provides an overview of the quality of www.houzz.com based on the testing of 10 critical test cases. The identified issues need to be addressed to enhance the overall user experience and website functionality.<p>
 
-    Project Report: [Zephyr Test Steps + Executions + Results (Jira) .pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12873917/Zephyr.Test.Steps.%2B.Executions.%2B.Results.Jira.pdf)<br>
+    Project Report can be find here: [Zephyr Test Steps + Executions + Results (Jira) .pdf](https://github.com/magthalena02/manual_testing_portofolio/files/12873917/Zephyr.Test.Steps.%2B.Executions.%2B.Results.Jira.pdf)<br>
     Test execution chart: ![Test execution chart](https://github.com/magthalena02/manual_testing_portofolio/assets/130222530/a2222bb5-c05e-4c2f-a118-9c98354d396a)
 
 
