@@ -8,7 +8,7 @@ API Documentation:
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/magthalena02/manual_testing_portofolio/edit/main/FinalProject/README.md) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
-Tools used: Jira Software, Microsoft Edge, Google Chrome.
+Tools used: Jira Software, Zephyr Squad.
 
 # Functional specifications
 
